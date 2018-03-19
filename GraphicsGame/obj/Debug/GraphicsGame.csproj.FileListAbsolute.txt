@@ -1,0 +1,58 @@
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\GraphicsGame.exe.config
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\GraphicsGame.exe
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\GraphicsGame.pdb
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.csprojResolveAssemblyReference.cache
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\MainWindow.g.cs
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\App.g.cs
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame_MarkupCompile.cache
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame_MarkupCompile.lref
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\MainWindow.baml
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.g.resources
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.Properties.Resources.resources
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.csproj.GenerateResource.Cache
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.exe
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.pdb
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\MainMenu.g.cs
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\MainMenu.baml
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLite-net.dll
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLite-net.pdb
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLite-net.xml
+C:\Users\Dominik Milaniak\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame_Content.g.cs
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\x86\e_sqlite3.dll
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\x64\e_sqlite3.dll
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\GraphicsGame.exe.config
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\GraphicsGame.exe
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\GraphicsGame.pdb
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLite-net.dll
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\WpfAnimatedGif.dll
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLite-net.pdb
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\SQLite-net.xml
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\bin\Debug\WpfAnimatedGif.xml
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.csprojResolveAssemblyReference.cache
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\MainMenu.g.cs
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\MainWindow.g.cs
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\App.g.cs
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame_Content.g.cs
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame_MarkupCompile.cache
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame_MarkupCompile.lref
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\MainMenu.baml
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\MainWindow.baml
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.g.resources
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.Properties.Resources.resources
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.csproj.GenerateResource.Cache
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.exe
+C:\Users\milan\OneDrive\Game Development\C#\Github Repositories\GraphicsGame\GraphicsGame\obj\Debug\GraphicsGame.pdb
